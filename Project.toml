@@ -1,0 +1,7 @@
+name = "Fashionista"
+uuid = "056f32be-c170-4dde-a25d-942697919e79"
+authors = ["Peter Ahrens <ptrahrens@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+Cassette = "7057c7e9-c182-5462-911a-8362d720325c"
